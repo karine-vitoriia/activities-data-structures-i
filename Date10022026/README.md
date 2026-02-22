@@ -36,15 +36,9 @@ javac Date10022026/*.java
 
 Executar:
 java Date10022026.OperacoesNotas 
-java Date10022026.CaixaEletronico
-java Date10022026.CriteriosSenhas
 
-Tecnologias usadas
-Java
-Estruturas de repetição (for)
-Condicionais (if)
-Vetores
-Manipulação de Strings
-Classe Scanner
+java Date10022026.CaixaEletronico
+
+java Date10022026.CriteriosSenhas
 
 Att. Karine
