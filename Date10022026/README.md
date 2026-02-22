@@ -16,14 +16,12 @@ CriteriosSenhas.java
 ----------- Exercício 1 – Operações com Notas -----------
 
 Foi utilizado um vetor fixo com 10 notas.
-
 O programa:
 Calcula a média das notas
 Conta quantos alunos ficaram acima da média
 Encontra a maior nota do vetor (sem usar ordenação pronta)
 
 Métodos e estruturas utilizadas:
-
 Laço for
 Estrutura if
 Variáveis acumuladoras
