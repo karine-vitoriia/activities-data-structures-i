@@ -1,6 +1,6 @@
 # Parte 1 — Refatoração e Tipos Abstratos de Dados (TAD)
 
-## 📌 Descrição da Atividade
+## Descrição da Atividade
 Esta etapa teve como objetivo refatorar os algoritmos desenvolvidos anteriormente, organizando o código em funções reutilizáveis seguindo os princípios de Tipos Abstratos de Dados (TAD). O programa principal (`main`) passou a atuar apenas como coordenador das execuções, enquanto cada funcionalidade foi isolada em métodos específicos.
 
 Foram refatoradas as seguintes atividades:
@@ -13,7 +13,7 @@ Foram refatoradas as seguintes atividades:
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 - Aplicar refatoração de código
 - Separar responsabilidades em funções
 - Evitar uso de variáveis globais
@@ -22,7 +22,7 @@ Foram refatoradas as seguintes atividades:
 
 ---
 
-## 🛠️ Recursos Utilizados
+## Recursos Utilizados
 - Linguagem Java
 - IDE (IntelliJ / Eclipse / VS Code)
 - Estruturas de repetição (`for`, `while`)
@@ -32,7 +32,7 @@ Foram refatoradas as seguintes atividades:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 ├── CaixaEletronico.java
 ├── CriteriosSenhas.java
 └── OperacoesNotas.java
@@ -42,7 +42,7 @@ Foram refatoradas as seguintes atividades:
 
 ---
 
-## ▶️ Instruções de Execução
+## Instruções de Execução
 
 1. Abrir o projeto em uma IDE Java.
 2. Compilar os arquivos `.java`.
