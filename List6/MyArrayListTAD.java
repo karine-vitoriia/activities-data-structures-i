@@ -4,7 +4,7 @@ public interface MyArrayListTAD {
 
     boolean isEmpty();
     boolean isFull();
-    int quantidade();
+    int count();
     void display();
 
     int get(int index);
