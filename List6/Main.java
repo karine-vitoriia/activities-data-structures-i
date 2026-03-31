@@ -103,7 +103,7 @@ public class Main {
             }
 
             case 12 -> {
-                System.out.println("Quantidade: " + lista.quantidade());
+                System.out.println("Quantidade: " + lista.count());
                 System.out.println("Vazia? " + lista.isEmpty());
                 System.out.println("Cheia? " + lista.isFull());
             }
