@@ -3,7 +3,7 @@ package List6;
 public class MyArrayList implements MyArrayListTAD {
 
     private int[] elementos;
-    private int quantidade;
+    private int count;
     private int capacidade;
 
     public MyArrayList(int tamanho) {
@@ -23,7 +23,7 @@ public class MyArrayList implements MyArrayListTAD {
     }
 
     @Override
-    public int quantidade() {
+    public int count() {
         return quantidade;
     }
 
